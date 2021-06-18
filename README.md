@@ -1,0 +1,2 @@
+# ornekblog
+blogum
